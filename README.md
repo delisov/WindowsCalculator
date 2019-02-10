@@ -12,12 +12,12 @@ Features:
 * Aero Glass Background (called Acrylic in Windows 10)
 * Adaptive layout (custom visibility of grid on resize)
 * Reveal effect on buttons
-* Chrome Window with custom buttons
+* WindowChrome with custom buttons
 * Binding of all the texts, so it's ready for globalization
 * Just a working calculator!
 
 Credits:
-* Glass effect, reveal effect, chrome winfow (infinite kudos!) was used from https://github.com/sourcechord/FluentWPF. Just a single showcase app that saved kilotons of hours!
+* Glass effect, reveal effect, WindowChrome (infinite kudos!) was used from https://github.com/sourcechord/FluentWPF. Just a single showcase app that saved kilotons of hours!
 * Stackoveflow, obviously
 
 Screenshots:
