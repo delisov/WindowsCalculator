@@ -19,3 +19,9 @@ Features:
 Credits:
 * Glass effect, reveal effect, chrome winfow (infinite kudos!) was used from https://github.com/sourcechord/FluentWPF. Just a single showcase app that saved kilotons of hours!
 * Stackoveflow, obviously
+
+Screenshots:
+![Adaptive layout](https://github.com/delisov/WindowsCalculator/blob/master/calc_adaptive.png?raw=true)
+![Aero Acrylic Effect](https://github.com/delisov/WindowsCalculator/blob/master/calc_aero.png?raw=true)
+![Reveal effect](https://github.com/delisov/WindowsCalculator/blob/master/calc_reveal.png?raw=true)
+![WindowChrome WPF](https://github.com/delisov/WindowsCalculator/blob/master/calc_windowchrome.png?raw=true)
