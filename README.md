@@ -6,7 +6,7 @@ Hi!
 
 As a part of a test task for one of prospective employers I did this thoroughly copied Windows Calculator. Amount of time and energy consumed requires me to share this openly with the world :)
 
-It's MIT license, so feel free to use it for any commercial or non-commercial projects
+It's under MIT license, so feel free to use it for any commercial or non-commercial projects
 
 Features:
 * Aero Glass Background (called Acrylic in Windows 10)
@@ -14,11 +14,11 @@ Features:
 * Reveal effect on buttons
 * WindowChrome with custom buttons
 * Binding of all the texts, so it's ready for globalization
-* Just a working calculator!
+* Well, it's just a working calculator!
 
 Credits:
-* Glass effect, reveal effect, WindowChrome (infinite kudos!) was used from https://github.com/sourcechord/FluentWPF. Just a single showcase app that saved kilotons of hours!
-* Stackoveflow, obviously
+* Glass effect, reveal effect, WindowChrome (infinite kudos!) was used from https://github.com/sourcechord/FluentWPF. Just a single showcase app that is a one-stop solution for any of your WPF Acrylic/Aero desires ;)
+* Stackoverflow, obviously
 
 Screenshots:
 ![Adaptive layout](https://github.com/delisov/WindowsCalculator/blob/master/calc_adaptive.png?raw=true)
